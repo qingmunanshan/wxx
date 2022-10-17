@@ -1,0 +1,16 @@
+# 配置文件
+
+DAILY_TIME: "08:00" # 每日定时发送时间。该时间为系统时间，如果当前系统时间不为北京时间需要自行进行换算
+
+START_DATE: "2020-05-20" # 纪念日
+CITY: "南昌"
+
+BIRTHDAY:
+  - "05-21"
+
+APP_ID: "wx48023460315afe4b"
+APP_SECRET: "d2797dcd4881a184f24b9d6510a1e210"
+
+USER_ID: 
+  - "oV7tI60c9KtYrME1sjPK54WXOZ94"
+TEMPLATE_ID: "C-UfpM4o-h32DTPgVmlVHIjkf7Mg6ra6E5rWiZUVkQA"
